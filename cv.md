@@ -1,39 +1,12 @@
-## 1. Name
-    Farrukh Khamidov
----
-## 2. Contact Info
-E-mail: [*farruxxamidov@gmail.com*](mailto:farruxxamidov@gmail.com),
-Telegram: [@farruxxamidov](maito:https://t.me/farruxxamidov)
----
-## 3. Summary
-    My current goal to learn web development courses from Rolling Scopes to start web developer career.
----
-## 4. Skills 
-    Basics of: Java, C/C++, HTML/CSS, Javascript.
----
-## 5. Code examples (LATEST)
-    function solution(str){
-    return str.split('').reverse().join('');
-    }
----
-## 6. Experience 
-**QA Engineer in Wing**
-*Mar 2019 – Present*
-
-**Java Developer in AA Garage Services**
-*May 2018 – Feb 2019*
-
-**IT Project Manager in AA Garage Services**
-*Apr 2014 – Apr 2018*
----
-## 7. Education
-**Lomonosov Moscow State University (MSU)**
-*Bachelor's degree, Computer science*
-
-**[Javarush](https://javarush.ru/) online course**
-
-**[Html academy](https://htmlacademy.ru/courses/299/practice) online courses**
-
----
-## 8. English 
-**Upper Intermediate (B2)**
+1. Farrukh Khamidov
+2. E-mail, mobile
+3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
+Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
+learning new things from everywhere etc.).
+4. Basics Java, C/C++, HTML/CSS, Javascript.
+5. Code examples (LATEST)
+6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
+freelance projects - wherever they had the opportunity to demonstrate skills they have.
+Also it would be awesome if you add links to source code)
+7. Lomonosov MSU
+8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
