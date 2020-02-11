@@ -27,6 +27,7 @@ Telegram: [@farruxxamidov](maito:https://t.me/farruxxamidov)
 *Apr 2014 – Apr 2018*
 ---
 ## 7. Education
+
 **Lomonosov Moscow State University (MSU)**
 *Bachelor's degree, Computer science*
 
