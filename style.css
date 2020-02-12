@@ -1,0 +1,10 @@
+.mainblock {
+    margin: auto;
+    max-width: 1024px;
+}
+
+img {
+    float: right;
+    height: 250px;
+    margin-left: 50px; 
+}
